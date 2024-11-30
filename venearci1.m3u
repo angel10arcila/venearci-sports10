@@ -1,0 +1,664 @@
+#EXTM3U
+<!-- Venearci -->
+<!DOCTYPE html>
+
+<html lang="es">
+    
+    
+<script type="»text/javascript»">
+
+document.write(escape(‘código a cifrar))
+
+</script>
+
+<script type="»text/javascript»">
+
+document.oncontextmenu = function(){return false;}
+
+</script> 
+
+<head>
+    
+<meta charset="UTF-8">
+<title>Venearci</title>
+<meta http-equiv="refresh" content="1" />
+</head>
+
+<body>
+ 
+#EXTM3U
+
+ARCILA PARRA Family
+Venearci, somos una familia. 
+Ángel José Arcila Parra
+Altagracia de Orituco, Edo. Guárico Venezuela.
+
+Avisó legal: "Está lista de IPTV, es para uso personal (...) Y no, con fines comercial ó lucrativo" Ésto lo creé con la finalidad, de tener todos los canales, en una sola app, porque a mi no, me gusta sólo ver un canal, en una app, sinó tener varias opciones, para ver.
+
+#EXTINF:-1 tvg-id="" tvg-name="VENEARCItv" tvg-logo="https://venearci.000webhostapp.com/Logo/venearci.gif", VENEARCItv* | Venearci-Sports
+https://vear-straemings.000webhostapp.com/VENEARCITV.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Venevisión" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Venevisión * | Venearci-Sports
+https://venevision.akamaized.net:443/hls/live/2098814/VENEVISION/0/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Venevisión" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Venevisión * | Venearci-Sports
+https://venevision.akamaized.net/hls/live/2098814/VENEVISION/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Venevisión Internacional" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Venevisión Internacional * | Venearci-Sports
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Vplus" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Vplus * | Venearci-Sports
+https://veplus.akamaized.net/hls/live/2101013/VEPLUS/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Novelisima" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Novelisima * | Venearci-Sports
+https://novelisima-ottera.akamaized.net/hls/live/2093267/NOVELISIMA_OTTERA/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MASTALK" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", MASTALK * | Venearci-Sports
+https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Televen" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Televen * | Venearci-Sports
+https://setp-televen-ssai-mslv4-open.akamaized.net/hls/live/2107128/televen/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Televen" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Televen HD * | Venearci-Sports
+https://d1diljksr5gd01.cloudfront.net/out/v1/99eaf10d0ece490fb8bd12eb6389daff/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="VivoPlay" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", VivoPlay * | Venearci-Sports
+https://linear-260.frequency.stream/mt/studio/260/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IVC" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", IVC * | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-153/playlist.m3u8?p
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BvsC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8ivSK2xXftUl3B88yGPchszQQOK7vMo1g6yZsx4MWTvssEWbgbT8JYwvm5qZYwytD09NnQ1nPY4vRCPBSSFHO3dTtjOfc1FY1btOzlu8XElzvNzNB9KjIyN08Z_YxftL7Uo4sheVi8Tr3BeLphg_1B795nIpaUdOnvC0svL9-TkEYnZEWeNO5-BtR/s1600/BackgroundEraser_20230222_111511652.png", Directv Sports * | Venearci-Sports
+https://1.tiofutbol.com/lb/dsports/index.m3u8?token=26f470ec9786593921112564897bed14e28d7574-0c8aa265d445f81da4103bfa2ad24eef-1719531949-1719521149&remote=186.94.46.63
+
+#EXTINF:-1 tvg-id="" tvg-name="TyCSports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8ivSK2xXftUl3B88yGPchszQQOK7vMo1g6yZsx4MWTvssEWbgbT8JYwvm5qZYwytD09NnQ1nPY4vRCPBSSFHO3dTtjOfc1FY1btOzlu8XElzvNzNB9KjIyN08Z_YxftL7Uo4sheVi8Tr3BeLphg_1B795nIpaUdOnvC0svL9-TkEYnZEWeNO5-BtR/s1600/BackgroundEraser_20230222_111511652.png", TyC Sports * | Venearci-Sports
+https://2214.pricesaskeloadsc.com/tyc_sports/index.m3u8?token=e259bbce21e1874779419afd513642b45ec17be9-0a-1719531987-1719521187
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL-I" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", CANAL-I* | Venearci-Sports
+https://vcp10.myplaytv.com/canali/canali/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="GLOBOVISIÓN" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", GLOBOVISIÓN * | Venearci-Sports
+https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8?p
+
+#EXTINF:-1 tvg-id="" tvg-name="EVtv" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", EVtv * | Venearci-Sports
+https://edge.streann.com/evtv1/evtv1/playlist.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3MTk1MzYzOTQsInJpZCI6IjU5NWZiNGExOTczODA1MDExN2FhNDQyNyIsImtleSI6ImtleTEiLCJjaWQiOiI1YTU2M2JkZjJjZGMzMmQxNzRmOGU5OTUifQ.86bZ1NYfaiCQ03bcKM9Kka6nW498Qj6uwarlMj57IsA
+
+#EXTINF:-1 tvg-id="" tvg-name="VIPTV" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", VIPTV * | Venearci-Sports
+https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8?p
+
+#EXTINF:-1 tvg-id="" tvg-name="MDA TV" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", MDA TV * | Venearci-Sports
+https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Tves" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Tves * | Venearci-Sports
+https://ls.tves.gob.ve/hls/tves.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="InterTv" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", InterTV * | Venearci-Sports
+https://streamtv.intervenhosting.net:3175/hybrid/play.m3u8?p
+
+#EXTINF:-1 tvg-id="" tvg-name="Vale tv" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Vale tv * | Venearci-Sports
+https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Anzoátegui tv" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Anzoátegui tv* | Venearci-Sports
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8?p
+
+#EXTINF:-1 tvg-id="" tvg-name="Vepacotv" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Vepacotv * | Venearci-Sports
+https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Corazón Llanero" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Corazón Llanero * | Venearci-Sports
+https://vcp.myplaytv.com/corazonllanero/corazonllanero/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SHOW VEN" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", SHOW VEN * | Venearci-Sports
+https://vcp.myplaytv.com/coll/coll/playlist.m3u8?p
+
+#EXTINF:-1 tvg-id="" tvg-name="Vevo" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Vevo * | Venearci-Sports
+https://linear-494.frequency.stream/mt/studio/494/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Más Chic" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Más Chic * | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-141/playlist.m3u8
+http://stream.flynetwifi.com:1935/live/mobile-146/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="LifeTime" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Life Time * | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-154/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Gourmet Tv" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Gourmet tv* | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-141/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Agrotendencia" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Agrotendencia * | Venearci-Sports
+https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="D15" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Digital 15* | Venearci-Sports
+http://51.81.93.29:8084/hls/d15.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Telemicro" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Telemicro * | Venearci-Sports
+http://51.81.93.239:8084/hls/tmicro.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PCtv" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", PUNTA CANAtv* | Venearci-Sports
+https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NEXtv" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", NEXtv * | Venearci-Sports
+https://vcp4.myplaytv.com/nextv/nextv/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Saber más" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Saber más * | Venearci-Sports
+https://sabermas-freetv.amagi.tv/SaberMas-xumo/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TMA" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", TMA * | Venearci-Sports
+https://tv.webtuya.com:3459/live/tammeridalive.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="WOWtv" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", WOWtv * | Venearci-Sports
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CDED" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Cómo Dice, El Dicho * | Venearci-Sports
+https://linear-734.frequency.stream/mt/studio/734/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TL-Novelas" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", TL Novelas * | Venearci-Sports
+https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TODO-NOVELA" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", TODO NOVELA * | Venearci-Sports
+https://linear-727.frequency.stream/mt/studio/727/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Novelas Turcas" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Novelas Turcas * | Venearci-Sports
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
+
+#EXTINF:-1 tvg-id="" tvg-name="TELEVISA NOVELAS" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Televisa Novelas * | Venearci-Sports
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?p
+
+#EXTINF:-1 tvg-id="" tvg-name="Las estrellas" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Las Estrelas LATAM * | Venearci-Sports
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8?p
+
+#EXTINF:-1 tvg-id="" tvg-name="LEP" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Las Estrellas Plus 1 * | Venearci-Sports
+https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8?p
+
+#EXTINF:-1 tvg-id="" tvg-name="LEP" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Las Estrellas Plus 2 * | Venearci-Sports
+https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8?p
+
+#EXTINF:-1 tvg-id="" tvg-name="Pasiones" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Pasiones * | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-014/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Unicable" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Unicable * | Venearci-Sports
+https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BitMe" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", BitMe* | Venearci-Sports
+https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal9" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", CANAL 9 * | Venearci-Sports
+https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Multimedios CR" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Multimedios CR * | Venearci-Sports
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
+
+#EXTINF:-1 tvg-id="" tvg-name="CDN Canal" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", CDN Canal * | Venearci-Sports
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/chunklist_b4628000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney HD" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Disney HD* | Venearci-Sports
+https://stream.ads.ottera.tv/cl/230910cjul4v4h32dud4p0fddg/854x480_550000_3_f.m3u8?i=475_514
+
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network 1" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Cartoon Network 1 * | Venearci-Sports
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Kids TV" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Kids TV * | Venearci-Sports
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/master_es.m3u8?ads.rnd=5tco&ads.env_i=49c47387-d6b8-47e4-a9eb-517af8d58ff2&ads.env_u=9afa7e5f-622d-4b4a-b44d-45eabf1ac993&ads.name=DistroTV&ads.bundle=undefined&ads.storeurl=undefined&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=320&ads.height=180&ads.deviceId=9afa7e5f-622d-4b4a-b44d-45eabf1ac993&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=9afa7e5f-622d-4b4a-b44d-45eabf1ac993&ads.deviceMake=Web&ads.deviceIdType=cookie&ads.deviceConnectionType=2&ads.client_ip=190.205.218.51&ads.geo=VE&ads.lat=8.00000&ads.long=-66.00000&ads.dma=false&ads.geoType=2&ads.contentid=23088&ads.content_duration=18000&ads.episode_id=97419&ads.show_id=3458&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music&ads.showRating=TV-Y&ads.episodeRating=TV-G&ads.language=es&ads.showtitle=Kids%20TV%20Espa%C3%B1ol%20Latino%20-%20Canciones%20Infantiles&ads.episodetitle=Kids%20TV%20Espa%C3%B1ol%20Latino%20-%20Canciones%20Infantiles&ads.keywords=Kids%2CKidsTV%2CNursery%20Rhymes%2CSongs%2CEspanol%2CSpanish%2CCanciones%20infantiles%2Ccanciones%20para%20beb%C3%A9s&ads.contenturl=https%3A%2F%2Fwww.distro.tv%2Flive%2Fkids-tv-espanol%2F&ads.paln=AQzzBGQEOhybR8_ybMgAT-HooKK8YNPZev3PdmYDZBkOm0tUxrfjAuOevaFq2IzeZdtnBeWqOt1UGUJsryxZNb-048p4eryGQx_YcOl8KNlqS3ypGVbUR2hhvlurWl0OT39W2Mql886bsVTtDcwKe1MpEq_PTE7AKYTo5sl4fFdVN7o5iUZgNyVsocZXJbUSbHq7P5P8YLfHKIxYrLV8c8Zo-BZRvoJgHzUuZcQiQRHI85q0b5tdG1sFEEHBLxrttj0E9Yk4LvsrafJMya7jQlf5HcWTCN2cGwYNEmAj7JzXfC9HqOU8Ft-T256plR7j77NH-DvxDPt3sf5P_iz-4rJfjUfzbvxxcKeAH4LnMA3zrBpjGxkTeZmC9PmAdAZPC9Snm43osWRTIsxlu7D4zuyDcEOpsQOu_mKKC3z1uVzaysccTuVo--jPW7oluK9mYsLe_720J3ZdKzxgbz-zncZ3k4FgEkcBqovDb0walXJqBukkoesxwlFjB5JvLUiBYWjkZVFlRkYGqhyBg59i7XloHq2klMR8Og16ChCYG6tEDeyGmR3mHwrPvmuFmYXm77XuUqrIQIYdw8eRHIHHCXZ__bYzyldhFLVtt-J122IVyGho5RmmrQWVTT8BnPVmLZY7GwQLo2Mb17opO7jClI0Ivb3q-0fR9BKYdLYB2VR9Lk_Gj3NMX9dRle_zzaVExsLMJpt9_b4iZj2whqH9A3kP_x2pvFjU0QmoWCCpQAO_f-6YSzP2B82nYS5IJ2yWhcDNrirCdgTHAjJUNkbMCDwIqkCWi2NebOzvVkRcfb_cw6JodZKiilAp6N5flJ_4DAEbhFN9-9Qqag-snomMM6mM_zuybifogSyJIzNNAhkdUXK26cGkJWIcBjMQqun61PCGgTqJRH2R1DzTztFXIihd-Ir4yNGRrHkcnZ3jzFKfOs0_2eOIa5NqX8mOHh8_nxW4uaY9WPZBsqIcMhu3aBQXYyvQKsB8BFaYNI_00hhDkYy8hESLnEoIgqXCntknQJ9Ta6U7QnFYbS2EWO2CpfjbS6wgDaDhb6No4ICDinhuuMoOUKZ1HMPsnc8DQG0PNlqWxLBd0GvFh7bYmQBOKbdr9e0Zwsn14oNoG1P1tFsnW1JR3PKrrQyW3uM6Nzn7wI7EgjdpgYdVEN31xXYRCUK6xd5uVaUCVe7qmd7H_A2-MoyjWmQ60H1RA6Qc05eFCj_cE5sCQblGLU5A90je8g3wQDmEMN3kmWchno4-XR0SBk1PKyWTl2fYbSFeZA-2vAwPLRv5UeBDr1b6obUZ&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
+
+#EXTINF:-1 tvg-id="" tvg-name="TLX" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", TLX * | Venearci-Sports
+https://v4.tustreaming.cl/tevexinter/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HOME FUlL" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", HOME FULL * | Venearci-Sports
+https://linear-723.frequency.stream/mt/studio/723/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AT-HOME" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", AT HOME * | Venearci-Sports
+https://linear-673.frequency.stream/mt/studio/673/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Natural" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Natural * | Venearci-Sports
+https://linear-600.frequency.stream/mt/studio/600/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Naturaleza" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Naturaleza * | Venearci-Sports
+https://linear-530.frequency.stream/mt/studio/530/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Animal Planet * | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-068/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Chanel" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Discovery Chanel * | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-006/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Discovery Turbo * | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-109/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Discovery H&H * | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-107/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", HISTORY  CHANNEL * | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", HISTORY CHANNEL 2 * | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MEGA CL" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", MEGA CL * | Venearci-Sports
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Caracol TV" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Caracol TV * | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Caracol TV" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Caracol TV* | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8?p
+
+#EXTINF:-1 tvg-id="" tvg-name="RCN Internacional" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", RCN INTERNACIONAL *| Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", RCN * | Venearci-Sports
+https://live-c2.cf.dmcdn.net/sec2(6ClPGlzYSxrXulSVT_q1e7o420CykQ5t6_JPBHyVSkcF2PleKf0o0vShWLWflBMYAB0qwn2V8RJDbBYSw6lGxdyOdLtU5uEF6NykOCYZIa0)/cloud/3/x7wikpz/s/live-1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="RCN - VIX" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", RCN - VIX * | Venearci-Sports
+https://linear-787.frequency.stream/mt/studio/787/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="RCN novelas" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", RCN Novelas * | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-066/playlist.m3u8?p
+
+#EXTINF:-1 tvg-id="" tvg-name="RCN XTRA" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", RCN XTRA* | Venearci-Sports
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8?p
+
+#EXTINF:-1 tvg-id="" tvg-name="RCN Más" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", RCN Mas * | Venearci-Sports
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8?p<>
+
+#EXTINF:-1 tvg-id="" tvg-name="La Red" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", La Red * | Venearci-Sports
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TeleCaribe HD" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", TeleCaribe HD * | Venearci-Sports
+https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="" tvg-name="Tele café" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Telecafé * | Venearci-Sports
+https://liveingesta118.cdnmedia.tv/telecafelive/smil:rtmp01.smil/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="" tvg-name="CALI TV" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", CALI TV * | Venearci-Sports
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8?p
+
+#EXTINF:-1 tvg-id="" tvg-name="TELEPACIFICO" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", TELEPACIFICO * | Venearci-Sports
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8?p
+
+#EXTINF:-1 tvg-id="" tvg-name="Señal Colombia" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Señal Colombia* | Venearci-Sports
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Telemedellín" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Telemedellín* | Venearci-Sports
+https://d3cglye48cl6m2.cloudfront.net/out/v1/37d85e2ab37c4873aed6849fe74e78b8/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="VALLENATO INTERNACIONAL" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", VALLENATO INTERNACIONAL * | Venearci-Sports
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8?p
+
+#EXTINF:-1 tvg-id="" tvg-name="Wapa TV Deportes" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Wapa TV Deportes * | Venearci-Sports
+https://live.field59.com/wapa/wapa2/playlist.m3u8?p
+
+#EXTINF:-1 tvg-id="" tvg-name="WAPA+" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", WAPA+ * | Venearci-Sports
+https://linear-737.frequency.stream/mt/studio/737/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Wapa tv" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Wapa TV* | Venearci-Sports
+https://live.field59.com/wapa/wapa1/playlist.m3u8?p
+
+#EXTINF:-1 tvg-id="" tvg-name="WIPR" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", WIPR * | Venearci-Sports
+https://ott3.streann.com/loadbalancer/services/public/channels-secure/6273ffeae4b037870081ff51/playlist.m3u8?p
+
+#EXTINF:-1 tvg-id="" tvg-name="TeleOnce" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", TeleOnce * | Venearci-Sports
+https://univision-live.cdn.vustreams.com:443/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/live-audio_track_0_0_und=64000-video_track=2800000.m3u8?p
+
+#EXTINF:-1 tvg-id="" tvg-name="Univision" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Univision * | Venearci-Sports
+https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", TELEMUNDO * | Venearci-Sports
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8?p
+
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", TELEMUNDO * | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-040/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO INTERNACIONAL" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", TELEMUNDO INTERNACIONAL * | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-152/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MLB" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", MLB * | Venearci-Sports
+https://webhdrus.onlinehdhls.ru/lb/premium399/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MLB" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", MLB - Juegos Olds * | Venearci-Sports
+https://linear-843.frequency.stream/mt/studio/843/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Sports * | Venearci-Sports
+https://linear-710.frequency.stream/mt/studio/710/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", ESPN * | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-032/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN2" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", ESPN 2 * | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-033/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN3" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", ESPN 3 * | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-121/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", FOX * | Venearci-Sports
+https://linear-581.frequency.stream/mt/studio/581/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FoxSports" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", FOX Sports * | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FoxSports3" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Fox Sports 3 * | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", TyC Sports * | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-005/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", TNT Sports * | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-143/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Red Bull * | Venearci-Sports
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8?p
+
+#EXTINF:-1 tvg-id="" tvg-name="EDGE SPORTS" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", EDGE SPORTS * | Venearci-Sports
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8?p
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Stadium TV" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Stadium TV * | Venearci-Sports
+https://bcovlive-a.akamaihd.net/77f552c75f084189959f8a7e54d87700/us-east-1/5994000126001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Canela Deportes" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Canela Deportes * | Venearci-Sports
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2013
+
+#EXTINF:-1 tvg-id="" tvg-name="Digital 809" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Digital-809 * | Venearci-Sports
+https://inliveserver.com:1936/digital809tv/digital809tv/playlist.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-name="Telemetro" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Telemetro * | Venearci-Sports
+https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Canela TV" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Canela TV* | Venearci-Sports
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=653&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1yn-&did=e8d40286bcde79e0235be56646455c18&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=es&site_page=https%253a%252f%252fwww.canela.tv%252f&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1693367796&id=14603&ip=190.78.3.136&override_expiration=1500&deliveryProfileId=23762&sign=8RJ6UyNHHnyl%2BAIxuP0p6YCItUSoHLTrefFeVDgJA4M%3D
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Telefamilia" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Canal Telefamilia* | Venearci-Sports
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?p
+
+#EXTINF:-1 tvg-id="" tvg-name="ANT3" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", ANTENA 3 * | Venearci-Sports
+http://hls.webredirect.org/53901/mp_9367.php/https://atres-live.atresmedia.com/14a7c30a8a8b24e0a94f9bf7a054fdd4216af399_ES_1712088312_1712117052/h264leg/live/antena3/bitrate_2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ANT3" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", ANTENA 3 * | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-008/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Tve" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Tve * | Venearci-Sports
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_576.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Star TVE" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Star TVE * | Venearci-Sports
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main_dvr.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TVEAmerica" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", TVE America * | Venearci-Sports
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main_dvr.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="LA1" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", LA1 * | Venearci-Sports
+https://ztnr.rtve.es/ztnr/3293681.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Rakuten Acción" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png",  Rakuten Acción * | Venearci-Sports
+https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Galicia TV" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Galicia TV * | Venearci-Sports
+https://america-crtvg.flumotion.com/playlist.m3u8?p
+
+#EXTINF:-1 tvg-id="" tvg-name="ATR3S SERIE" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", ATR3S * | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-047/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ATRESCINE" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", ATRESCINE * | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-028/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="America TV" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", America TV * | Venearci-Sports
+http-user-agent=iPhone
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="5" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", 5 * | Venearci-Sports
+https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal6"" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Canal  6* | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-111/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BAYWATCH" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", BAYWATCH * | Venearci-Sports
+https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8?p
+
+#EXTINF:-1 tvg-id="" tvg-name="BAYWATCH" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", BAYWATCH-ES * | Venearci-Sports
+https://d1fbbm0iugalh3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-61f2xc1h8wyl5/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CSI" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", CSI MIAMI * | Venearci-Sports
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/632b5950b515b000079e6b81/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=edc36f28-1f9f-4020-870a-919f88058f82&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 tvg-id="" tvg-name="USA" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", USA * | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-059/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", TNT SERIES * | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-046/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Film & Arts" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Film & Arts * | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-142/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SONY CANAL NOVELAS" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", SONY CANAL NOVELAS * | Venearci-Sports
+https://1d523b230b48436fa13d0bfa26aa9fb1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalNovelas-1/playlist.m3u8?p
+
+#EXTINF:-1 tvg-id="" tvg-name="SONY CANAL COMPETENCIA" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", SONY CANAL COMPETENCIA * | Venearci-Sports
+https://db71bbef43434d4e9ff9d4a9b8f55bf0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalCompetencias-1/playlist.m3u8?p
+
+#EXTINF:-1 tvg-id="" tvg-name="SONY CANAL COMEDIA" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", SONY CANAL COMEDIA * | Venearci-Sports
+https://d05f9c4e535042b78e6de94ef5548e4a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalComedias-2/playlist.m3u8?p
+
+#EXTINF:-1 tvg-id="" tvg-name="SONY MOVIE" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", SONY MOVIE * | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-034/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SONY CHANNEL" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", SONY CHANNEL * | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-035/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", FX * | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-123/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", A&E * | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-158/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Universal" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Universal * | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-064/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", AMC * | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-079/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", AMC * | Venearci-Sports
+https://d38fxgxhpllpfu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4w47pf3x50sko/playlist.m3u8?p
+
+#EXTINF:-1 tvg-id="" tvg-name="STAR-CHANNEL" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", STAR CHANNEL * | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", AXN * | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-048/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Warner Bros" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", WARNER BROS TV * | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MP" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Multi Premier * | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-021/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CineCanal" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", CineCanal * | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Space * | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-003/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Golden" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Golden * | Venearci-Sports
+https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Golden Plus" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Golden Plus * | Venearci-Sports
+https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Golden Premier" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Golden Premier * | Venearci-Sports
+https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Golden Edge" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Golden Edge  * | Venearci-Sports
+https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Golden 2" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Golden 2 * | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-141/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", HBO * | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", HBO 2* | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DPPlus" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", De Película Plus * | Venearci-Sports
+https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Dpelicula" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", DPelicula * | Venearci-Sports
+https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Adrenalina tv" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Adrenalina tv* | Venearci-Sports
+https://linear-393.frequency.stream/mt/studio/393/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Tú Cine" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Tú Cine * | Venearci-Sports
+https://tucinelatam-freetv.amagi.tv:443/TuCine-xumo/master_6.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Top Cine" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Top Cine * | Venearci-Sports
+https://topcinelatam-freetv.amagi.tv/TopCineLATAMx/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Top Cine 2" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Top Cine 2 * | Venearci-Sports
+https://topcineus-freetv.amagi.tv/TopCine-roku/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Todo Cine" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Todo Cine * | Venearci-Sports
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
+
+#EXTINF:-1 tvg-id="" tvg-name="Cine Real" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Cine Real * | Venearci-Sports
+https://cinereal-plex.amagi.tv/CineReal/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PLANETA MOVIE" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", PLANETA MOVIE * | Venearci-Sports
+https://scl.edge.grupoz.cl/movie/live/playlist.m3u8?p
+
+#EXTINF:-1 tvg-id="" tvg-name="Planeta Tv Family" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Planeta TV Family * | Venearci-Sports
+https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Canela Cinema" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Canela Cinema * | Venearci-Sports
+https://amg00658-canelamediainc-canelacinema-freetv-arrbv.amagi.tv/playlist/amg00658-canelamediainc-canelacinema-freetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Canela Cinema Colombia" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Canela Cinema Colombia * | Venearci-Sports
+https://amg00658-canelamediainc-canelacinema-freetv-arrbv.amagi.tv/playlist/amg00658-canelamediainc-canelacinema-freetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Flou Cine" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Flou Cine * | Venearci-Sports
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-flou-canelatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Runtime Family" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Runtime Family * | Venearci-Sports
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
+
+#EXTINF:-1 tvg-id="" tvg-name="Cine Family" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Cine Family * | Venearci-Sports
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5281
+
+#EXTINF:-1 tvg-id="" tvg-name="FreeTv" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", FreeTv * | Venearci-Sports
+https://chiquilines-freetv.amagi.tv:443/Chiquilines-plex/master_6.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MOVIE-FE" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", MOVIE-FE  * | Venearci-Sports
+https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Internacional" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Azteca Internacional* | Venearci-Sports
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397
+
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Cinema" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Azteca Cinema* | Venearci-Sports
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
+
+#EXTINF:-1 tvg-id="" tvg-name="TVAztecaGuatemala" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", TV Azteca Guatemala * | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-148/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NETTV" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", NETTV * | Venearci-Sports
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Estrella Game" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Estrella Game * | Venearci-Sports
+https://estrella-games-oando.amagi.tv/playlist.m3u8?p
+
+#EXTINF:-1 tvg-id="" tvg-name="CGTN ESPAÑOL" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", CGTN ESPAÑOL * | Venearci-Sports
+https://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DW ESPAÑOL" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", DW ESPAÑOL * | Venearci-Sports
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?p
+
+#EXTINF:-1 tvg-id="" tvg-name="CNN EN ESPAÑOL" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", CNN EN ESPAÑOL* | Venearci-Sports
+http://181.78.24.67:8010/play/a03p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CNN EN ESPAÑOL" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", CNN EN ESPAÑOL * | Venearci-Sports
+https://linear-358.frequency.stream/mt/studio/358/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Telesur" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Telesur * | Venearci-Sports
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="COSMOVISIÓN" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", COSMOVISIÓN * | Venearci-Sports
+https://videohls2.cosmovision.tv/hls/sd.m3u8?p
+
+#EXTINF:-1 tvg-id="" tvg-name="Multivisión" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Multivisión * | Venearci-Sports
+http://panel.dattalive.com:1935/8250/8250/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINISIMA SATELITAL" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", ARGENTINISIMA SATELITAL* | Venearci-Sports
+https://stream1.sersat.com/hls/argentinisima.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BAYWATCH" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", BAYWATCH * | Venearci-Sports
+https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8?p
+
+#EXTINF:-1 tvg-id="" tvg-name="Enlace" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Enlace * | Venearci-Sports
+https://livecdn.enlace.plus/enlace/smil:enlace-fhd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Tv Familia" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", TV Familia * | Venearci-Sports
+https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="EWNT" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", EWNT * | Venearci-Sports
+https://1654596987.rsc.cdn77.org:443/1654596987/tracks-v1a1/mono.m3u8?p
+
+#EXTINF:-1 tvg-id="" tvg-name="EWTN" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", EWNT * | Venearci-Sports
+http://stream.flynetwifi.com:1935/live/mobile-012/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TASTEMADE" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", TASTEMADE * | Venearci-Sports
+https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8?p
+
+#EXTINF:-1 tvg-id="" tvg-name="TELESISTEMA CR" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", TELESISTEMA CR * | Venearci-Sports
+https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8?p
+
+#EXTINF:-1 tvg-id="" tvg-name="PANAVISIÓN" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", PANAVISIÓN * | Venearci-Sports
+https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8?p
+
+#EXTINF:-1 tvg-id="" tvg-name="EXTREMA TV" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", EXTREMA TV * | Venearci-Sports
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8?p
+
+#EXTINF:-1 tvg-id="" tvg-name="ESTRELLA TV" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", ESTRELLA TV * | Venearci-Sports
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatvsmsng-samsungus/playlist.m3u8?p
+
+#EXTINF:-1 tvg-id="" tvg-name="WAPPtv" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", WAPPtv * | Venearci-Sports
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/wapptv/wapptv.smil/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 4" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", CANAL 4 * | Venearci-Sports
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8?p
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 13" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", CANAL 13 * | Venearci-Sports
+https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8?p
+
+#EXTINF:-1 tvg-id="" tvg-name="BOREAL TELEVISIÓN" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", BOREAL TELEVISIÓN * | Venearci-Sports
+https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8?p
+
+#EXTINF:-1 tvg-id="" tvg-name="Oxigeno Network" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Oxigeno Network * | Venearci-Sports
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8?p
+
+#EXTINF:-1 tvg-id="" tvg-name="La Mega 107.3" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png",  La Mega 107.3 * | Venearci-Sports
+https://acp4.lorini.net/proxy/ur2050?mp=/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="Circuito Éxitos 99.9" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Circuito Éxitos 99.9 * | Venearci-Sports
+https://acp4.lorini.net/proxy/ur2070?mp=/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="Onda La Superestación 107.9" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Onda La Superestación 107.9 * | Venearci-Sports
+https://acp4.lorini.net/proxy/ur2060?mp=/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="Circuito Líder 94.9" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Circuito Líder 94.9 * | Venearci-Sports
+https://stream-162.zeno.fm/pv120nq8e8zuv?zs=1T27FKTDRC-SQ7vEVXLvCA
+
+#EXTINF:-1 tvg-id="" tvg-name="Unión Radio 90.3" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Unión Radio 90.3* | Venearci-Sports
+https://acp4.lorini.net/proxy/ur2080?mp=/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="Activa 104.9" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png",  Activa 104.9 * | Venearci-Sports
+https://stream-150.zeno.fm/t31pbasum7zuv?zs=YZf30L3bQU2O2ubbISeTHQ
+
+#EXTINF:-1 tvg-id="" tvg-name="Guaraña 97.5" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png",  Guaraña 97.5 * | Venearci-Sports
+https://sp.wnetserver.com/8016/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="Deportvisima" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Deportvisima * | Venearci-Sports
+https://sp.panelchs.com/8066/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="Talento 102.7" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Talento  102.7 * | Venearci-Sports
+https://cloudstream2036.conectarhosting.com/8232/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="Deportiva 98.3" tvg-logo="https://v3nearci.000webhostapp.com/img/venearci.png", Deportiva 98.3 * | Venearci-Sports
+https://server6.globalhostla.com:9246/stream
+
+</body>
+</html>
